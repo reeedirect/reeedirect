@@ -1,6 +1,6 @@
 ### Hi there 👋
-freshman in just,zhenjiang,china
-love programming
+freshman in just,zhenjiang,china  
+love programming  
 that's it
 
 <!--
