@@ -1,4 +1,7 @@
 ### Hi there 👋
+freshman in just,zhenjiang,china
+love programming
+that's it
 
 <!--
 **reeedirect/reeedirect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
